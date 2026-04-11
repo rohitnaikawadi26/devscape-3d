@@ -78,7 +78,7 @@ const SocialIcons = () => {
         </span>
         <span>
           <a
-            href="https://rohitnaikawadi.dev"
+            href="https://rohitnaikawadi.vercel.app/"
             target="_blank"
             rel="noreferrer"
           >
