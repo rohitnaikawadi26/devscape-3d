@@ -53,7 +53,7 @@ const Contact = () => {
               LinkedIn <MdArrowOutward />
             </a>
             <a
-              href="https://rohitnaikawadi.dev"
+              href="https://rohitnaikawadi.vercel.app/"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
