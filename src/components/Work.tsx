@@ -5,18 +5,25 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "AI Resume Analyzer",
+    title: "ATS Resume Analyzer",
     category: "AI-Powered Web App",
     tools: "React.js, TypeScript, Claude Sonnet AI, Puter.js, Tailwind CSS",
-    image: "/images/resume-analyzer.png",
-    link: "https://github.com/rohitnaikawadi26",
+    image: "/images/Resume_Tracker.png",
+    link: "https://github.com/rohitnaikawadi26/ai-resume-analyzer-ats",
   },
   {
     title: "AI Video Ads Generator",
     category: "AI SaaS Platform",
     tools: "React.js, Node.js, PostgreSQL, Google Gemini API, Clerk, Sentry",
-    image: "/images/video-ads.png",
-    link: "https://github.com/rohitnaikawadi26",
+    image: "/images/ai_vedio_ads_generator.png",
+    link: "https://github.com/rohitnaikawadi26/ai-video-ads-generator",
+  },
+  {
+    title: "Crypto Hunter",
+    category: "Full-Stack Crypto Dashboard",
+    tools: "MERN stack, JWT authentication, real-time crypto prices, favorites, news feed, responsive UI",
+    image: "/images/Crypto_Hunter.png",
+    link: "https://github.com/rohitnaikawadi26/Crypto_Tracker",
   },
 ];
 
